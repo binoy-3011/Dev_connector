@@ -1,2 +1,21 @@
 # Dev_connector
-This is a MERN stack application from the "MERN Stack Front To Back" course on Udemy. It is a small social network app that includes authentication, profiles and forum posts.
+This is a MERN stack application from the "MERN Stack Front To Back". It is a  social network app that includes authentication, profiles and forum posts.
+
+This  includes...
+- Building an extensive backend API with Node.js & Express
+
+- Protecting routes/endpoints with JWT (JSON Web Tokens)
+
+- Extensive API testing with Postman
+
+- Integrating React with our backend in an elegant way, creating a great workflow
+
+- Building our frontend to work with the API
+
+- Using Redux for app state management
+
+- Creating reducers and actions for our resources
+
+- Creating many container components that integrate with Redux
+
+- Testing with the Redux Chrome extension
