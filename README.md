@@ -1,6 +1,6 @@
 # Dev_connector
 This is a MERN stack application from the "MERN Stack Front To Back". It is a  social network app that includes authentication, profiles and forum posts.
-*Key technologies Used = Node.js, Express, React, Redux , MongoDB ,ES6+
+Key technologies Used = Node.js, Express, React, Redux , MongoDB ,ES6+
 
 This  includes...
 - Building an extensive backend API with Node.js & Express
